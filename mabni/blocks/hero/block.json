@@ -1,0 +1,21 @@
+{
+  "apiVersion": 2,
+  "name": "mabni/hero",
+  "title": "Hero Section",
+  "category": "layout",
+  "icon": "cover-image",
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "source": "html",
+      "selector": "h2"
+    },
+    "subheading": {
+      "type": "string",
+      "source": "html",
+      "selector": "p"
+    }
+  },
+  "editorScript": "file:./edit.js",
+  "style": "file:./style.css"
+}
