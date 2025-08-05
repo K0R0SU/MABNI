@@ -1,0 +1,12 @@
+{
+  "name": "mabni",
+  "version": "0.1.0",
+  "devDependencies": {
+    "@wordpress/scripts": "^25.1.0"
+  },
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "test": "wp-scripts lint-js"
+  }
+}

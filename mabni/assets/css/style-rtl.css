@@ -1,0 +1,5 @@
+/* RTL adjustments */
+.rtl .wp-block-mabni-hero {
+    direction: rtl;
+    text-align: right;
+}

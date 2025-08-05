@@ -1,0 +1,12 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mabni 0.1.0\n"
+"Language: \n"
+
+#: blocks/hero/edit.js:11
+msgid "Add your heading..."
+msgstr ""
+
+#: blocks/hero/edit.js:15
+msgid "Add a subheading..."
+msgstr ""

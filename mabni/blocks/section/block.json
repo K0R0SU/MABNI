@@ -1,0 +1,13 @@
+{
+  "apiVersion": 2,
+  "name": "mabni/section",
+  "title": "Section",
+  "category": "layout",
+  "icon": "layout",
+  "supports": {
+    "anchor": true
+  },
+  "editorScript": "file:./edit.js",
+  "style": "file:./style.css",
+  "render": "file:./render.php"
+}
